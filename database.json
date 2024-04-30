@@ -1,29 +1,492 @@
 {
     "data": [
-      {
-        "home_team": "Pogon Szczecin",
-        "away_team": "Gornik Zabrze",
-        "home_goals": 2,
-        "away_goals": 0
-      },
-      {
-        "home_team": "Pogon Szczecin",
-        "away_team": "Gornik Zabrze",
-        "home_goals": 2,
-        "away_goals": 0
-      },
-      {
-        "home_team": "Pogon Szczecin",
-        "away_team": "Gornik Zabrze",
-        "home_goals": 2,
-        "away_goals": 0
-      },
-      {
-        "home_team": "Pogon Szczecin",
-        "away_team": "Gornik Zabrze",
-        "home_goals": 2,
-        "away_goals": 0
-      }
-    ]
+        {
+         "round ": "1",
+         "home_team": "Burnley",
+          "away_team": "Man City",
+          "home_goals": 0,
+          "away_goals": 3
+        },
+        {
+          "round ": "1",
+          "home_team": "Arsenal",
+          "away_team": "Nottingham",
+          "home_goals": 2,
+          "away_goals": 1
+        },
+        {
+          "round ": "1",
+          "home_team": "Sheffield",
+          "away_team": "Crystal Palace",
+          "home_goals": 0,
+          "away_goals": 1
+        },
+        {
+          "round ": "1",
+          "home_team": "Bournemouth",
+          "away_team": "West Ham",
+          "home_goals": 1,
+          "away_goals": 1
+        },
+        {
+          "round ": "1",
+          "home_team": "Brighton",
+          "away_team": "Luton",
+          "home_goals": 4,
+          "away_goals": 1
+        },
+        {
+          "round ": "1",
+          "home_team": "Everton",
+          "away_team": "Fulham",
+          "home_goals": 0,
+          "away_goals": 1
+        },
+        {
+          "round ": "1",
+          "home_team": "Newcastle",
+          "away_team": "Aston Villa",
+          "home_goals": 5,
+          "away_goals": 1
+        },
+        {
+          "round ": "1",
+          "home_team": "Brentford",
+          "away_team": "Tottenham",
+          "home_goals": 2,
+          "away_goals": 2
+        },
+        {
+          "round ": "1",
+          "home_team": "Chelsea",
+          "away_team": "Liverpool",
+          "home_goals": 1,
+          "away_goals": 1
+        },
+        {
+          "round ": "1",
+          "home_team": "Man United",
+          "away_team": "Wolves",
+          "home_goals": 1,
+          "away_goals": 0
+        },
+        {
+          "round ": "2",
+          "home_team": "Nottingham",
+          "away_team": "Sheffield",
+          "home_goals": 2,
+          "away_goals": 1
+        },
+        {
+          "round ": "2",
+          "home_team": "Fulham",
+          "away_team": "Brentford",
+          "home_goals": 0,
+          "away_goals": 3
+        },
+        {
+          "round ": "2",
+          "home_team": "Liverpool",
+          "away_team": "Bournemouth",
+          "home_goals": 3,
+          "away_goals": 1
+        },
+        {
+          "round ": "2",
+          "home_team": "Wolves",
+          "away_team": "Brighton",
+          "home_goals": 1,
+          "away_goals": 4
+        },
+        {
+          "round ": "2",
+          "home_team": "Tottenham",
+          "away_team": "Man United",
+          "home_goals": 2,
+          "away_goals": 0
+        },
+        {
+          "round ": "2",
+          "home_team": "Man City",
+          "away_team": "Newcastle",
+          "home_goals": 1,
+          "away_goals": 0
+        },
+        {
+          "round ": "2",
+          "home_team": "Aston Villa",
+          "away_team": "Everton",
+          "home_goals": 4,
+          "away_goals": 0
+        },
+        {
+          "round ": "2",
+          "home_team": "West Ham",
+          "away_team": "Chelsea",
+          "home_goals": 3,
+          "away_goals": 1
+        },
+        {
+          "round ": "2",
+          "home_team": "Crystal Palace",
+          "away_team": "Arsenal",
+          "home_goals": 0,
+          "away_goals": 1
+        },
+        {
+          "round ": "3",
+          "home_team": "Chelsea",
+          "away_team": "Luton",
+          "home_goals": 3,
+          "away_goals": 0
+        },
+        {
+          "round ": "3",
+          "home_team": "Bournemouth",
+          "away_team": "Tottenham",
+          "home_goals": 0,
+          "away_goals": 2
+        },
+        {
+          "round ": "3",
+          "home_team": "Brentford",
+          "away_team": "Crystal Palace",
+          "home_goals": 1,
+          "away_goals": 1
+        },
+        {
+          "round ": "3",
+          "home_team": "Arsenal",
+          "away_team": "Fulham",
+          "home_goals": 2,
+          "away_goals": 2
+        },
+        {
+          "round ": "3",
+          "home_team": "Man United",
+          "away_team": "Nottingham",
+          "home_goals": 3,
+          "away_goals": 2
+        },
+        {
+          "round ": "3",
+          "home_team": "Everton",
+          "away_team": "Wolves",
+          "home_goals": 0,
+          "away_goals": 1
+        },
+        {
+          "round ": "3",
+          "home_team": "Brighton",
+          "away_team": "West Ham",
+          "home_goals": 1,
+          "away_goals": 3
+        },
+        {
+          "round ": "3",
+          "home_team": "Sheffield",
+          "away_team": "Man City",
+          "home_goals": 1,
+          "away_goals": 2
+        },
+        {
+          "round ": "3",
+          "home_team": "Burnley",
+          "away_team": "Aston Villa",
+          "home_goals": 1,
+          "away_goals": 3
+        },
+        {
+          "round ": "3",
+          "home_team": "Newcastle",
+          "away_team": "Liverpool",
+          "home_goals": 1,
+          "away_goals": 2
+        },
+        {
+          "round ": "4",
+          "home_team": "Luton",
+          "away_team": "West Ham",
+          "home_goals": 1,
+          "away_goals": 2
+        },
+        {
+          "round ": "4",
+          "home_team": "Sheffield",
+          "away_team": "Everton",
+          "home_goals": 2,
+          "away_goals": 2
+        },
+        {
+          "round ": "4",
+          "home_team": "Man City",
+          "away_team": "Fulham",
+          "home_goals": 5,
+          "away_goals": 1
+        },
+        {
+          "round ": "4",
+          "home_team": "Chelsea",
+          "away_team": "Nottingham",
+          "home_goals": 0,
+          "away_goals": 1
+        },
+        {
+          "round ": "4",
+          "home_team": "Burnley",
+          "away_team": "Tottenham",
+          "home_goals": 2,
+          "away_goals": 5
+        },
+        {
+          "round ": "4",
+          "home_team": "Brentford",
+          "away_team": "Bournemouth",
+          "home_goals": 2,
+          "away_goals": 2
+        },
+        {
+          "round ": "4",
+          "home_team": "Brighton",
+          "away_team": "Newcastle",
+          "home_goals": 3,
+          "away_goals": 1
+        },
+        {
+          "round ": "4",
+          "home_team": "Crystal Palace",
+          "away_team": "Wolves",
+          "home_goals": 3,
+          "away_goals": 2
+        },
+        {
+          "round ": "4",
+          "home_team": "Liverpool",
+          "away_team": "Aston Villa",
+          "home_goals": 3,
+          "away_goals": 0
+        },
+        {
+          "round ": "4",
+          "home_team": "Arsenal",
+          "away_team": "Man United",
+          "home_goals": 3,
+          "away_goals": 1
+        },
+        {
+          "round ": "5",
+          "home_team": "Wolves",
+          "away_team": "Liverpool",
+          "home_goals": 1,
+          "away_goals": 3
+        },
+        {
+          "round ": "5",
+          "home_team": "Fulham",
+          "away_team": "Luton",
+          "home_goals": 1,
+          "away_goals": 0
+        },
+        {
+          "round ": "5",
+          "home_team": "Tottenham",
+          "away_team": "Sheffield",
+          "home_goals": 2,
+          "away_goals": 1
+        },
+        {
+          "round ": "5",
+          "home_team": "West Ham",
+          "away_team": "Man City",
+          "home_goals": 1,
+          "away_goals": 3
+        },
+        {
+          "round ": "5",
+          "home_team": "Man United",
+          "away_team": "Brighton",
+          "home_goals": 1,
+          "away_goals": 3
+        },
+        {
+          "round ": "5",
+          "home_team": "Aston Villa",
+          "away_team": "Crystal Palace",
+          "home_goals": 3,
+          "away_goals": 1
+        },
+        {
+          "round ": "5",
+          "home_team": "Newcastle",
+          "away_team": "Brentford",
+          "home_goals": 1,
+          "away_goals": 0
+        },
+        {
+          "round ": "5",
+          "home_team": "Bournemouth",
+          "away_team": "Chelsea",
+          "home_goals": 0,
+          "away_goals": 0
+        },
+        {
+          "round ": "5",
+          "home_team": "Everton",
+          "away_team": "Arsenal",
+          "home_goals": 0,
+          "away_goals": 1
+        },
+        {
+          "round ": "5",
+          "home_team": "Nottingham",
+          "away_team": "Burnley",
+          "home_goals": 1,
+          "away_goals": 1
+        },
+        {
+          "round ": "6",
+          "home_team": "Crystal Palace",
+          "away_team": "Fulham",
+          "home_goals": 0,
+          "away_goals": 0
+        },
+        {
+          "round ": "6",
+          "home_team": "Man City",
+          "away_team": "Nottingham",
+          "home_goals": 2,
+          "away_goals": 0
+        },
+        {
+          "round ": "6",
+          "home_team": "Luton",
+          "away_team": "Wolves",
+          "home_goals": 1,
+          "away_goals": 1
+        },
+        {
+          "round ": "6",
+          "home_team": "Brentford",
+          "away_team": "Everton",
+          "home_goals": 1,
+          "away_goals": 3
+        },
+        {
+          "round ": "6",
+          "home_team": "Burnley",
+          "away_team": "Man United",
+          "home_goals": 0,
+          "away_goals": 1
+        },
+        {
+          "round ": "6",
+          "home_team": "Chelsea",
+          "away_team": "Aston Villa",
+          "home_goals": 0,
+          "away_goals": 1
+        },
+        {
+          "round ": "6",
+          "home_team": "Arsenal",
+          "away_team": "Tottenham",
+          "home_goals": 2,
+          "away_goals": 2
+        },
+        {
+          "round ": "6",
+          "home_team": "Liverpool",
+          "away_team": "West Ham",
+          "home_goals": 3,
+          "away_goals": 1
+        },
+        {
+          "round ": "6",
+          "home_team": "Brighton",
+          "away_team": "Bournemouth",
+          "home_goals": 3,
+          "away_goals": 1
+        },
+        {
+          "round ": "6",
+          "home_team": "Sheffield",
+          "away_team": "Newcastle",
+          "home_goals": 0,
+          "away_goals": 8
+        },
+        {
+          "round ": "7",
+          "home_team": "Aston Villa",
+          "away_team": "Brighton",
+          "home_goals": 6,
+          "away_goals": 1
+        },
+        {
+          "round ": "7",
+          "home_team": "Man United",
+          "away_team": "Crystal Palace",
+          "home_goals": 0,
+          "away_goals": 1
+        },
+        {
+          "round ": "7",
+          "home_team": "Newcastle",
+          "away_team": "Burnley",
+          "home_goals": 2,
+          "away_goals": 0
+        },
+        {
+          "round ": "7",
+          "home_team": "Wolves",
+          "away_team": "Man City",
+          "home_goals": 2,
+          "away_goals": 1
+        },
+        {
+          "round ": "7",
+          "home_team": "Bournemouth",
+          "away_team": "Arsenal",
+          "home_goals": 0,
+          "away_goals": 4
+        },
+        {
+          "round ": "7",
+          "home_team": "West Ham",
+          "away_team": "Sheffield",
+          "home_goals": 2,
+          "away_goals": 0
+        },
+        {
+          "round ": "7",
+          "home_team": "Everton",
+          "away_team": "Luton",
+          "home_goals": 1,
+          "away_goals": 2
+        },
+        {
+          "round ": "7",
+          "home_team": "Tottenham",
+          "away_team": "Liverpool",
+          "home_goals": 2,
+          "away_goals": 1
+        },
+        {
+          "round ": "7",
+          "home_team": "Nottingham",
+          "away_team": "Brentford",
+          "home_goals": 1,
+          "away_goals": 1
+        },
+        {
+          "round ": "7",
+          "home_team": "Fulham",
+          "away_team": "Chelsea",
+          "home_goals": 0,
+          "away_goals": 4
+        }
+
+        
+
+      ]
+    
   }
   
