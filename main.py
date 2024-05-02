@@ -1,4 +1,11 @@
+from website import create_app
 import json
+from flask import Flask, render_template
+
+app = create_app()
+
+
+
 
 # punkty/punkty u siebie/punkty na wyjezdzie/gole strzelone/gole stracone/forma 5/forma10
 Aston_Villa_Points = [0 , 0, 0, 0, 0, 0, 0]
@@ -742,9 +749,25 @@ with open('database.json', 'r') as file:
          home_chance=home_score/full_score
          away_chance=away_score/full_score
          print("home chance to win =", round(home_chance, 3), "away chance to win=", round(away_chance, 3))
-    
-    
 
+
+    
+    
+prediction(Chelsea_Points,Tottenham_Points)
+prediction(Luton_Points,Everton_Points)
+prediction(Arsenal_Points,Bournemouth_Points)
+prediction(Brentford_Points,Fulham_Points)
+prediction(Burnley_Points,Newcastle_Points)
+prediction(Sheffield_Points,Nottingham_Points)
+prediction(Man_City_Points,Wolves_Points)
+prediction(Chelsea_Points,Brighton_Points)
+prediction(Brighton_Points,Aston_Villa_Points)
+prediction(Liverpool_Points,Tottenham_Points)
+prediction(Crystal_Palace_Points,Man_United_Points)
+
+
+if __name__ == '__main__':
+    app.run(debug=True)
 
 
 
